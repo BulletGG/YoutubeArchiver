@@ -4,7 +4,7 @@ A simple Windows desktop application for downloading and archiving YouTube video
 
 YTArc provides a graphical interface for selecting videos from channels, playlists, or individual YouTube URLs and downloading them as **MP4 and/or MP3**.
 
-[YTArc Logo](logo.png)
+![YTArc Logo](logo.png)
 
 ---
 
@@ -28,7 +28,7 @@ YTArc provides a graphical interface for selecting videos from channels, playlis
 ---
 
 ## 🖥️ Screenshot
-[YTArc Screenshot](ss.png)
+![YTArc Screenshot](ss.png)
 
 
 ---
